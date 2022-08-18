@@ -33,14 +33,14 @@ Options
 - bsig: scale parameter, where b in asinh magnitude is bsig x sqrt(<variance>)
 - Nite: Number of iterations
 - xnimg: If specified, images at each iteration are output.
-- costfile: if specified, data-fidelity and regulatization terms normalized by d.o.f. are output.
+- costfile: if specified, the data-fidelity and regulatization terms normalized by d.o.f. are output.
 - costplot: if set, plot the cost sequence. 
 
 
 ## Required Environment
 - `numpy`
 - `scipy`
-- `matplotlib` if you want to show sequence of cost function
+- `matplotlib` if you want to show the sequence of cost function
 
 
 
