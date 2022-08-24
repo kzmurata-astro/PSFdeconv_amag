@@ -1,8 +1,8 @@
 # Deblurring galaxy images with Tikhonov Regularization on magnitude domain
 
 <p align="center">
-<img src="https://github.com/kzmurata-astro/git-tutorial/blob/main/img/spi2_before_after.png" width=40% height=40%>
-<br> (c) Murata & Takeuchi in prep. </br>
+<img src="https://github.com/kzmurata-astro/PSFdeconv_amag/blob/main/img/spi2_before_after.png" width=40% height=40%>
+<br> (c) Murata & Takeuchi in press. </br>
 </p>
 
 There are two steps required to run the code:
