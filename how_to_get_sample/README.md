@@ -47,7 +47,7 @@ python3 mkpsfmat.py --psfimg spi2_dud_psf_40x40.raw --prefix spi2_dud_psf --img_
 ```
 
 ```py
-python3 deconv_amag_pds.py --obsimg spi2_dud_img_64x64.raw --varimg spi2_dud_var_64x64.raw --psfmat spi2_dud_psf.mat --outimg spi2_dud_deconv.raw --lam 2.0 --bsig 1.0 --Nite 1000 --xnimg spi2_dud_xn.raw --costfile cost.txt
+python3 deconv_amag_pds.py --obsimg spi2_dud_img_64x64.raw --varimg spi2_dud_var_64x64.raw --psfmat spi2_dud_psf.mat --outimg spi2_dud_deconv.raw --lam 2.0 --bsig 1.0 --Nite 1000 --xnimg spi2_dud_xn_64x64x1000.raw --costfile cost.txt
 ```
 
 
