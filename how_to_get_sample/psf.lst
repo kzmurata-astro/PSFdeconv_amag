@@ -1,0 +1,5 @@
+#? ra          dec       tract  patch filter  type    rerun
+  150.1728195 2.6090672  9813   4,6   i       coadd   pdr2_dud
+  150.687837  2.61864322 9813   2,6   i       coadd   pdr2_dud
+  150.1728195 2.6090672  9813   4,6   i       coadd   pdr2_wide
+  150.687837  2.61864322 9813   2,6   i       coadd   pdr2_wide

@@ -1,0 +1,5 @@
+#? rerun  ra          dec        sw           sh           filter image  mask  variance type
+pdr2_dud  150.1728195 2.6090672  5.375arcsec 5.375arcsec HSC-I  true   false true     coadd
+pdr2_dud  150.687837  2.61864322 5.375arcsec 5.375arcsec HSC-I  true   false true     coadd
+pdr2_wide 150.1728195 2.6090672  5.375arcsec 5.375arcsec HSC-I  true   false true     coadd
+pdr2_wide 150.687837  2.61864322 5.375arcsec 5.375arcsec HSC-I  true   false true     coadd
